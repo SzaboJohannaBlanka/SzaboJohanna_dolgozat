@@ -1,0 +1,15 @@
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.exe
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.deps.json
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.runtimeconfig.json
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.dll
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.pdb
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.AssemblyInfoInputs.cache
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.AssemblyInfo.cs
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.dll
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\refint\Dolgozat.dll
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.pdb
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.genruntimeconfig.cache
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\ref\Dolgozat.dll
+C:\Users\szabo.johanna\Desktop\Dolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.csproj.Up2Date
